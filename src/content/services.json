@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bath-brush",
+    "name": "Bath and Brush",
+    "price": "From $35",
+    "duration": "45-60 min",
+    "description": "Warm water bath with breed-appropriate shampoo, blow dry, ear cleaning, and a thorough brush-out. We use oatmeal-based shampoos for sensitive skin and medicated options when needed.",
+    "idealFor": "All breeds, regular maintenance visits",
+    "image": "https://images.unsplash.com/photo-1528846104175-4fd300ee59da?w=600&q=80",
+    "imageAlt": "Dog being bathed and groomed"
+  },
+  {
+    "id": "full-groom",
+    "name": "Full Groom",
+    "price": "From $55",
+    "duration": "90-120 min",
+    "description": "Everything in the bath and brush, plus a breed-specific haircut with professional clippers and shears. Includes sanitary trim, paw pad trim, and nail clipping. We follow AKC breed standards or your custom preferences.",
+    "idealFor": "Poodles, Shih Tzus, Yorkies, Goldendoodles, double-coated breeds",
+    "image": "https://images.unsplash.com/photo-1611173622933-91942d394b04?w=600&q=80",
+    "imageAlt": "Professional dog grooming session"
+  },
+  {
+    "id": "nail-trim",
+    "name": "Nail Trim",
+    "price": "$15",
+    "duration": "15 min",
+    "description": "Quick nail clipping and filing with a Dremel finish for smooth edges. We take it slow for anxious dogs. Includes a treat and gentle handling for first-timers.",
+    "idealFor": "Walk-ins, puppies, senior dogs with overgrown nails",
+    "image": "https://images.unsplash.com/photo-1625321171045-1fea4ac688e9?w=600&q=80",
+    "imageAlt": "Dog nail trimming close-up"
+  },
+  {
+    "id": "de-shedding",
+    "name": "De-Shedding Treatment",
+    "price": "From $45",
+    "duration": "60-90 min",
+    "description": "FURminator de-shedding shampoo and conditioner, followed by a high-velocity blow dry and undercoat removal with a slicker brush. Reduces shedding up to 80% for 4 to 6 weeks.",
+    "idealFor": "Labs, Huskies, German Shepherds, Golden Retrievers, any heavy shedder",
+    "image": "https://images.unsplash.com/photo-1581887936036-3f4f7f0b6679?w=600&q=80",
+    "imageAlt": "Dog grooming de-shedding process"
+  },
+  {
+    "id": "puppy-first",
+    "name": "Puppy First Groom",
+    "price": "$30",
+    "duration": "30-45 min",
+    "description": "A gentle introduction to grooming for puppies 12 weeks and older. Warm bath, light brush, nail trim, and ear cleaning. We keep it short and positive so your pup learns grooming is a good thing.",
+    "idealFor": "Puppies 12 weeks+, first-time groomers",
+    "image": "https://images.unsplash.com/photo-1562176566-e9afd27531d4?w=600&q=80",
+    "imageAlt": "Happy puppy"
+  },
+  {
+    "id": "teeth-brushing",
+    "name": "Teeth Brushing Add-On",
+    "price": "$10",
+    "duration": "10 min",
+    "description": "Enzymatic toothpaste and a soft-bristle brush for fresh breath and healthier gums. Available as an add-on to any service.",
+    "idealFor": "Any dog, especially those with tartar buildup or bad breath",
+    "image": "https://images.unsplash.com/photo-1719464454959-9cf304ef4774?w=600&q=80",
+    "imageAlt": "Dog grooming care"
+  }
+]

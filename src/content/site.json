@@ -1,0 +1,16 @@
+{
+  "name": "Affordable Grooming",
+  "tagline": "54 Reviews. Zero Unhappy Pups.",
+  "phone": "(804) 592-9242",
+  "email": "info@affordablegroomingrichmond.com",
+  "address": {
+    "street": "6520 Iron Bridge Rd Suite D",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23234"
+  },
+  "googleRating": 4.7,
+  "reviewCount": 54,
+  "mapsUrl": "https://maps.google.com/?cid=4242057361645259679",
+  "mapsEmbed": "https://maps.google.com/maps?q=6520+Iron+Bridge+Rd+suite+d+Richmond+VA+23234&output=embed"
+}
