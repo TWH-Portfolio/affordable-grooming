@@ -166,7 +166,6 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-navy-dark text-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="text-center mb-12">
-            <p className="text-sm font-semibold text-white/60 uppercase tracking-wider mb-2">How It Works</p>
             <h2 className="text-3xl md:text-4xl font-bold">THE AFFORDABLE TOUCH</h2>
             <p className="text-white/60 mt-3 max-w-lg mx-auto">
               Four steps. Every visit. No surprises on the receipt.
@@ -189,7 +188,6 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="text-center mb-12">
-            <p className="text-sm font-semibold text-navy uppercase tracking-wider mb-2">What Dog Owners Say</p>
             <h2 className="text-3xl md:text-4xl font-bold text-fg">
               {site.reviewCount} REVIEWS. REAL DOGS. REAL OWNERS.
             </h2>
